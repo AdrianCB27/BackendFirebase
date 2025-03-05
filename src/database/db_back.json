@@ -1,0 +1,272 @@
+{
+  "users": [
+    {
+      "user": "Adrian",
+      "pass": "ACB3",
+      "email": "adrian@gmail.com"
+    },
+    {
+      "user": "Alex",
+      "pass": "Godino",
+      "email": "alexito@gmail.com"
+    }
+  ],
+  "pals": [
+    {
+      "id": "1a2b3c4d-5678-90ab-cdef-1234567890ab",
+      "name": "Lamball",
+      "type": "Normal",
+      "abilities": [
+        "Escudo de Lana",
+        "Cabezazo",
+        "Energizar"
+      ],
+      "createdAt": "1/28/2025, 10:00:00 AM",
+      "trainerTips": [
+        "Usa Wool Shield para defensa física",
+        "Headbutt puede desestabilizar enemigos",
+        "Energize aumenta la velocidad momentáneamente"
+      ]
+    },
+    {
+      "id": "2b3c4d5e-6789-01bc-def2-2345678901bc",
+      "name": "Cattiva",
+      "type": "Normal",
+      "abilities": [
+        "Ataque Sorpresa",
+        "Ronroneo Encantador",
+        "Giro de Cola"
+      ],
+      "createdAt": "1/28/2025, 10:10:00 AM",
+      "trainerTips": [
+        "Sneak Attack es excelente para golpes rápidos",
+        "Purr of Charm puede calmar a enemigos agresivos",
+        "Tail Spin puede desarmar al enemigo"
+      ]
+    },
+    {
+      "id": "3c4d5e6f-7890-12cd-ef34-3456789012cd",
+      "name": "Chikipi",
+      "type": "Flying",
+      "abilities": [
+        "Ráfaga",
+        "Picotazo",
+        "Giro Aéreo"
+      ],
+      "createdAt": "1/28/2025, 10:15:00 AM",
+      "trainerTips": [
+        "Gust contrarresta enemigos terrestres",
+        "Peck es útil en combates rápidos",
+        "Aerial Spin mejora la movilidad en el aire"
+      ]
+    },
+    {
+      "id": "4d5e6f7g-8901-23de-f456-4567890123de",
+      "name": "Lifmunk",
+      "type": "Grass",
+      "abilities": [
+        "Escudo de Hojas",
+        "Carrera Rápida",
+        "Cosecha"
+      ],
+      "createdAt": "1/28/2025, 10:20:00 AM",
+      "trainerTips": [
+        "Harvest permite recolectar recursos rápidamente",
+        "Leaf Shield es ideal contra ataques de fuego",
+        "Quick Dash facilita esquivar ataques"
+      ]
+    },
+    {
+      "id": "5e6f7g8h-9012-34ef-g567-5678901234ef",
+      "name": "Foxparks",
+      "type": "Fire",
+      "abilities": [
+        "Carrera Ardiente",
+        "Explosión de Ascua",
+        "Aullido de Llamas"
+      ],
+      "createdAt": "1/28/2025, 10:25:00 AM",
+      "trainerTips": [
+        "Blazing Sprint permite escapar o flanquear enemigos",
+        "Ember Burst puede iniciar incendios pequeños",
+        "Howl of Flames motiva a otros aliados de fuego"
+      ]
+    },
+    {
+      "id": "6f7g8h9i-0123-45fg-h678-6789012345fg",
+      "name": "Fuack",
+      "type": "Water",
+      "abilities": [
+        "Bombardeo de Burbujas",
+        "Escudo de Agua",
+        "Ola Torrencial"
+      ],
+      "createdAt": "1/28/2025, 10:30:00 AM",
+      "trainerTips": [
+        "Tidal Crash es devastador en combate acuático",
+        "Bubble Barrage puede confundir enemigos",
+        "Aqua Shield protege contra ataques de fuego"
+      ]
+    },
+    {
+      "id": "7g8h9i0j-1234-56gh-i789-7890123456gh",
+      "name": "Sparkit",
+      "type": "Electric",
+      "abilities": [
+        "Carga de Voltios",
+        "Pulso Estático",
+        "Descarga"
+      ],
+      "createdAt": "1/28/2025, 10:35:00 AM",
+      "trainerTips": [
+        "Discharge afecta múltiples enemigos",
+        "Volt Charge puede sobrecargar dispositivos",
+        "Static Pulse tiene un radio de efecto amplio"
+      ]
+    },
+    {
+      "id": "8h9i0j1k-2345-67hi-j890-8901234567hi",
+      "name": "Tanzee",
+      "type": "Grass",
+      "abilities": [
+        "Latigazo de Vid",
+        "Danza de Hojas",
+        "Agarre de la Naturaleza"
+      ],
+      "createdAt": "1/28/2025, 10:40:00 AM",
+      "trainerTips": [
+        "Nature’s Grasp atrapa enemigos por varios segundos",
+        "Vine Whip es eficaz contra enemigos voladores",
+        "Leaf Dance puede distraer múltiples enemigos"
+      ]
+    },
+    {
+      "id": "9i0j1k2l-3456-78ij-k901-9012345678ij",
+      "name": "Pengullet",
+      "type": "Ice",
+      "abilities": [
+        "Picotazo de Escarcha",
+        "Fragmento de Hielo",
+        "Defensa Glacial"
+      ],
+      "createdAt": "1/28/2025, 10:45:00 AM",
+      "trainerTips": [
+        "Glacial Defense reduce daño físico",
+        "Frost Peck puede congelar temporalmente",
+        "Ice Shard es efectivo a corta distancia"
+      ]
+    },
+    {
+      "id": "0j1k2l3m-4567-89jk-l012-0123456789jk",
+      "name": "Penking",
+      "type": "Ice/Water",
+      "abilities": [
+        "Escarcha del Rey",
+        "Explosión de Agua",
+        "Comando Real"
+      ],
+      "createdAt": "1/28/2025, 10:50:00 AM",
+      "trainerTips": [
+        "Royal Command mejora aliados en combate",
+        "King’s Frost ralentiza enemigos",
+        "Aqua Blast tiene un impacto a larga distancia"
+      ]
+    },
+    {
+      "id": "1k2l3m4n-5678-90kl-m123-1234567890kl",
+      "name": "Jolthog",
+      "type": "Electric/Ground",
+      "abilities": [
+        "Pulso Terrestre",
+        "Golpe de Trueno",
+        "Explosión Estática"
+      ],
+      "createdAt": "1/28/2025, 10:55:00 AM",
+      "trainerTips": [
+        "Thunder Smash es ideal contra enemigos voladores",
+        "Earth Pulse puede crear obstáculos en el terreno",
+        "Static Burst tiene un efecto parálisis"
+      ]
+    },
+    {
+      "id": "2l3m4n5o-6789-01lm-n234-2345678901lm",
+      "name": "Anubis",
+      "type": "Dark",
+      "abilities": [
+        "Golpe Sombrío",
+        "Siega de Almas",
+        "Maldición Eterna"
+      ],
+      "createdAt": "1/28/2025, 11:00:00 AM",
+      "trainerTips": [
+        "Eternal Curse aplica daño continuo",
+        "Shadow Strike es eficaz en emboscadas",
+        "Soul Reap recupera energía con cada golpe"
+      ]
+    },
+    {
+      "id": "3m4n5o6p-7890-12mn-o345-3456789012mn",
+      "name": "Mossanda Lux",
+      "type": "Grass/Light",
+      "abilities": [
+        "Bendición del Rayo de Sol",
+        "Flor Curativa",
+        "Rayo Radiante"
+      ],
+      "createdAt": "1/28/2025, 11:05:00 AM",
+      "trainerTips": [
+        "Sunray Blessing potencia habilidades de aliados",
+        "Healing Bloom regenera salud lentamente",
+        "Radiant Beam ciega temporalmente a los enemigos"
+      ]
+    },
+    {
+      "id": "4n5o6p7q-8901-23no-p456-4567890123no",
+      "name": "Robinquill",
+      "type": "Flying/Grass",
+      "abilities": [
+        "Tormenta de Plumas",
+        "Barrage de Hojas",
+        "Escudo Celestial"
+      ],
+      "createdAt": "1/28/2025, 11:10:00 AM",
+      "trainerTips": [
+        "Sky Shield protege aliados de ataques aéreos",
+        "Feather Storm tiene un área de efecto amplio",
+        "Leaf Barrage puede cubrir retiradas estratégicas"
+      ]
+    },
+    {
+      "id": "5o6p7q8r-9012-34op-q567-5678901234op",
+      "name": "Azurobe",
+      "type": "Water/Steel",
+      "abilities": [
+        "Hoja de Agua",
+        "Escudo de Metal",
+        "Tajo Torrencial"
+      ],
+      "createdAt": "1/28/2025, 11:15:00 AM",
+      "trainerTips": [
+        "Torrential Slash inflige gran daño en área acuática",
+        "Aqua Blade puede cortar obstáculos",
+        "Metal Shield es resistente a ataques físicos"
+      ]
+    },
+    {
+      "id": "6p7q8r9s-0123-45pq-r678-6789012345pq",
+      "name": "Floree",
+      "type": "Grass",
+      "abilities": [
+        "Tormenta de Pétalos",
+        "Vides Curativas",
+        "Barrera de Floración"
+      ],
+      "createdAt": "1/28/2025, 11:20:00 AM",
+      "trainerTips": [
+        "Petal Storm tiene gran radio de daño",
+        "Healing Vines es excelente para sanar aliados",
+        "Flower Barrier aumenta la defensa"
+      ]
+    }
+  ]
+}

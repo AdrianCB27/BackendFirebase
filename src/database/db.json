@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "user": "Adrian",
+      "pass": "ACB3",
+      "email": "adrian@gmail.com"
+    },
+    {
+      "user": "Alex",
+      "pass": "Godino",
+      "email": "alexito@gmail.com"
+    }
+  ],
+  "pals": [
+    {
+      "id": "1a2b3c4d-5678-90ab-cdef-1234567890ab",
+      "name": "Lamball",
+      "type": "Normal",
+      "abilities": [
+        "Escudo de Lana",
+        "Cabezazo",
+        "Energizar"
+      ],
+      "createdAt": "1/28/2025, 10:00:00 AM",
+      "trainerTips": [
+        "Usa Wool Shield para defensa física",
+        "Headbutt puede desestabilizar enemigos",
+        "Energize aumenta la velocidad momentáneamente"
+      ],
+      "image": "https://paldex.io/cdn-cgi/image/format=auto,width=300/images/pal-icons/T_SheepBall_icon_normal.png"
+    },
+    {
+      "id": "4d5e6f7g-8901-23de-f456-4567890123de",
+      "name": "Lifmunk",
+      "type": "Grass",
+      "abilities": [
+        "Escudo de Hojas",
+        "Carrera Rápida",
+        "Cosecha"
+      ],
+      "createdAt": "1/28/2025, 10:20:00 AM",
+      "trainerTips": [
+        "Harvest permite recolectar recursos rápidamente",
+        "Leaf Shield es ideal contra ataques de fuego",
+        "Quick Dash facilita esquivar ataques"
+      ],
+      "image": "https://paldex.io/cdn-cgi/image/format=auto,width=300/images/pal-icons/T_Carbunclo_icon_normal.png"
+    },
+    {
+      "id": "5e6f7g8h-9012-34ef-g567-5678901234ef",
+      "name": "Foxparks",
+      "type": "Fire",
+      "abilities": [
+        "Carrera Ardiente",
+        "Explosión de Ascua",
+        "Aullido de Llamas"
+      ],
+      "createdAt": "1/28/2025, 10:25:00 AM",
+      "trainerTips": [
+        "Blazing Sprint permite escapar o flanquear enemigos",
+        "Ember Burst puede iniciar incendios pequeños",
+        "Howl of Flames motiva a otros aliados de fuego"
+      ],
+      "image": "https://paldex.io/cdn-cgi/image/format=auto,width=300/images/pal-icons/T_Kitsunebi_icon_normal.png"
+    },
+    {
+      "id": "6f7g8h9i-0123-45fg-h678-6789012345fg",
+      "name": "Fuack",
+      "type": "Water",
+      "abilities": [
+        "Bombardeo de Burbujas",
+        "Escudo de Agua",
+        "Ola Torrencial"
+      ],
+      "createdAt": "1/28/2025, 10:30:00 AM",
+      "trainerTips": [
+        "Tidal Crash es devastador en combate acuático",
+        "Bubble Barrage puede confundir enemigos",
+        "Aqua Shield protege contra ataques de fuego"
+      ],
+      "image": "https://paldex.io/cdn-cgi/image/format=auto,width=300/images/pal-icons/T_BluePlatypus_icon_normal.png"
+    },
+    {
+      "id": "d00d516b-0f52-4cb0-a57d-a1720900fed8",
+      "name": "Anubis",
+      "type": "Ground",
+      "abilities": "Devorar niños",
+      "trainerTips": "Úsalo como esclavo de piedra, Mano de obra barata",
+      "image": "https://paldex.io/cdn-cgi/image/format=auto,width=300/images/pal-icons/T_Anubis_icon_normal.png",
+      "createdAt": "2/21/2025, 7:20:23 PM"
+    },
+    {
+      "id": "4bd131d4-5f1b-42d1-a599-9c72dc083bc8",
+      "name": "Lovander",
+      "type": "Normal",
+      "abilities": "Lluvia ácida",
+      "trainerTips": "Es una cazadora nocturna, por lo que trabaja mejor de noche",
+      "image": "https://palpedia.azrocdn.com/pals/T_PinkLizard_icon_normal.png",
+      "createdAt": "2/25/2025, 8:32:44 AM"
+    }
+  ]
+}
